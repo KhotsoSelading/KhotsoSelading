@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhotsoSelading](https://github.com/KhotsoSelading)
 
-- 💬 Ask me about **C#, C++**
+- 💬 Ask me about **C#, C++, SQL**
 
 - 📫 How to reach me **k.selading007@gmail.com**
 
