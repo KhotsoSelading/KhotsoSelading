@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/kselading" target="blank"><img src="https://img.shields.io/twitter/follow/kselading?logo=twitter&style=for-the-badge" alt="kselading" /></a> </p>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhotsoSelading](https://github.com/KhotsoSelading)
 
-- 💬 Ask me about **C#, C++, SQL**
+- 💬 Ask me about **C#, C++, SQL, HTML, Css, Python**
 
 - 📫 How to reach me **k.selading007@gmail.com**
 
